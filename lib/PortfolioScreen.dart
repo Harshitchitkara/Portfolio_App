@@ -36,12 +36,10 @@ class PortfolioScreen extends StatelessWidget {
             ),
             SizedBox(height: 20),
             Text(
-              '  I am currently a first-year Bachelor of Computer Applications (BCA) student at Vivekananda Institute of Professional Studies, specializing in app development.'
+              '   I am currently a first year Bachelor of Computer Applications (BCA) student at Vivekananda Institute of Professional Studies, specializing in app development.'
               'My passion for technology drives me to explore and innovate within the field, with a focus on building user-friendly and efficient applications.'
               ' I am eager to apply my growing knowledge of programming languages and development frameworks to real-world projects, contributing to the ever-evolving tech landscape.',
-
-
-        textAlign: TextAlign.center,
+              textAlign: TextAlign.center,
               style: TextStyle(
                 fontSize: 16,
                 color: Colors.grey[600],
